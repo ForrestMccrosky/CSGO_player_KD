@@ -1,0 +1,1 @@
+this repo will be used to start my e-sports data science project for CS GO
