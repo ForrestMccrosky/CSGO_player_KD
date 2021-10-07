@@ -30,7 +30,7 @@
 ## Findings & Takeaways
  - The features that I hypothesized (kd, kd_diff) had the strongest correlation in relation to our target variable (player_rating)
  - Our OLS: Linear Regression Model
- - Our model performed extremely and outperformed the baseline.
+ - Our model performed extremely well and outperformed the baseline.
  - With more time I'd like to use feature engineering to help make the model more accurate in predicting player ratings
 
  # The Pipeline
